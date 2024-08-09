@@ -1,0 +1,16 @@
+.montaga-regular {
+    font-family: "Montaga", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.nav-right ul li {
+  display: inline-block; 
+  /* error */
+}
+
+.nav img {
+  width: 250px;
+  height: 250px;
+}
+  
